@@ -14,6 +14,9 @@ header {
 }
 main {
 	grid: main;
+  display: flex;
+  justify-content: space-between;
+
 }
 footer {
 	grid: footer;
@@ -22,5 +25,21 @@ footer {
   align-items: center;
 	background-color: #203040;
 	color: white;
+
+}
+.movie__card{
+flex: 4 8rem;
+  margin-left: 1rem;
+  margin-top: .1rem;
+  padding: 1rem;
+
+
+}
+.movie__pay{
+  flex:1 0.2rem;
+  margin-right: 1rem;
+  margin-top: .1rem;
+  padding: 1rem;
+    justify-content: center;
 
 }

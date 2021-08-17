@@ -1,0 +1,27 @@
+.carts{
+display: flex;
+}
+.cart{
+display: flex;
+flex-wrap: wrap;
+
+}
+.cart__paragraph{
+display: flex;
+flex-direction: column;
+margin-left: 5px;
+justify-content: center;
+}
+.cart img{
+    width:300px;
+    height: 300px;
+}
+.cart__title{
+    display: flex;
+flex-wrap: nowrap;
+
+}
+a{
+    text-decoration: none;
+    color:#cc8000
+}
