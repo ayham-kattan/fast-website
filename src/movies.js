@@ -31,14 +31,14 @@ const movies = [
 		id: 5,
 		name: "spider man3",
 		image: "images/6.jpg",
-		type: "action",
+		type: "comedy",
 		rating: "2.6",
 	},
 	{
 		id: 6,
 		name: "Iron man",
 		image: "images/7.jpg",
-		type: "action",
+		type: "comedy",
 		rating: "3.2",
 	},
 	{
